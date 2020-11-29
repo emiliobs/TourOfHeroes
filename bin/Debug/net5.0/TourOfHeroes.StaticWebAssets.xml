@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Projects4\TourOfHeroes\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Projects4\TourOfHeroes\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>
